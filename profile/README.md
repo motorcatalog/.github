@@ -5,11 +5,11 @@
   </picture>
 </h1>
 
-We're building a digital service book for cars. It's a web app where you log maintenance, repairs and costs, and keep each car's full history in one place. It works offline, and your data stays on your own device.
+We're building a digital service book for cars. It's a web app where you log maintenance, repairs and costs, and keep each car's full history in one place. Your data stays in your own browser.
 
 ## Repositories
 
-- [motorcatalog](https://github.com/motorcatalog/motorcatalog): the web app (Vite, JavaScript, Tailwind CSS, PWA)
+- [motorcatalog](https://github.com/motorcatalog/motorcatalog): the web app (Vite, JavaScript, Tailwind CSS)
 
 ## How we work
 
